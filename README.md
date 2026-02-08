@@ -9,7 +9,7 @@ This repository contains the computational workflow used to identify molecular d
 **Core Differential Expression Workflow**
   * **Input:** Raw counts and clinical metadata.
 * **Method:** Uses `DESeq2` for normalization and statistical testing.
-* **Output:** * Volcano plots identifying significant up/down-regulated genes.
+* **Output:** Volcano plots identifying significant up/down-regulated genes.
 * Annotated Heatmaps of top 50 differentially expressed genes.
 * CSV exports of all statistical results.
 
@@ -29,4 +29,4 @@ This repository contains the computational workflow used to identify molecular d
 * **Data Wrangling:** `dplyr`, `tidyr`, `tibble`
 
 ## Author
-**Gadha K Leons** *PhD Candidate, Cancer Genetics & Molecular Biology* *All India Institute of Medical Sciences (AIIMS), New Delhi*
+**Gadha K Leons** *PhD Candidate, Cancer Genomics & Molecular Biology* *All India Institute of Medical Sciences (AIIMS), New Delhi*
